@@ -32,16 +32,15 @@
 <!-- Servers -->
 <h1 align="center">
     <span style="font-size: 24px;">SERVERS</span>
+    <h2 align="center">
+        <span style="font-size: 18px;">
+            <strong>
+                <span style="color: aqua;">enable-command-block=true</span>
+            </strong> 
+            must be set in your <strong><span style="color: aqua;">server.properties</span></strong> file, or armor stands and other things won't work correctly!
+        </span>
+    </h2>
 </h1>
-<br>
-<h2 align="center">
-    <span style="font-size: 18px;">
-        <strong>
-            <span style="color: aqua;">enable-command-block=true</span>
-        </strong> 
-        must be set in your <strong><span style="color: aqua;">server.properties</span></strong> file, or armor stands and other things won't work correctly!
-    </span>
-</h2>
 <!-- Map information -->
 <p>
     <img style="padding-top: 75px; padding-bottom: 25px; display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/2khFS8z/Map.png" width="100%" />
