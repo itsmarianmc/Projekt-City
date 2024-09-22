@@ -1,10 +1,12 @@
 <!-- Header -->
-<strong>
-    <a style="text-decoration: underline;">Projekt City</a>
-</strong>
-<p align="center">
-    <a style="text-decoration: none;" title="OWNER | SuffixHD" href="https://www.curseforge.com/members/SuffixHD">by SuffixHD &amp; <a style="text-decoration: none;" title="OWNER | itsmarian_mc" href="https://www.curseforge.com/members/itsmarian_mc">itsmarian</a>
-</p>
+<h1 align="center">
+    <strong>
+        <a style="text-decoration: underline;">Projekt City</a>
+    </strong>
+    <p align="center">
+        <a style="text-decoration: none; font-size: 15px;" title="OWNER | SuffixHD" href="https://www.curseforge.com/members/SuffixHD">by SuffixHD</a>&nbsp;&amp;&nbsp;<a style="text-decoration: none;" title="OWNER | itsmarian_mc" href="https://www.curseforge.com/members/itsmarian_mc">itsmarian</a>
+    </p>
+</h1>
 <!-- Our mission -->
 <p align="center">
     <span style="font-size: 18px;">"Projekt City" is an unfunded, free and massive Minecraft project! Our mission is to entertain as many players as possible and create a fun and easy to understand map that is completely free to play.</span>
@@ -16,6 +18,7 @@
         feedback, suggestions and wishes for this project, so that all players have fun on our map. We are trying to become more professional with every update and are constantly improving our building skills.
     </span>
 </p>
+<br>
 <!-- Informations -->
 <p>
     <img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://i.ibb.co/tP56Bg6/Informations.png" width="100%" />
@@ -27,38 +30,65 @@
     <span style="font-size: 24px;">
         <strong>
             <span style="color: gray; font-size: 24px;">Expected end:</span>
-            <span style="font-size: 25px; color: #7393b3;">&nbsp;never</span>
+            <span style="font-size: 25px; color: #7393b3;">&nbsp;01/01/2025 [PAUSED INDEFINITELY]</span>
         </strong>
     </span>
+    <br><br>
 </h2>
 <!-- Servers -->
-<h1 align="center">
-    <span style="font-size: 24px;">SERVERS</span>
-    <h2 align="center">
-        <span style="font-size: 18px;">
-            <strong>
-                <span style="color: aqua;">enable-command-block=true</span>
-            </strong> 
-            must be set in your <strong><span style="color: aqua;">server.properties</span></strong> file, or armor stands and other things won't work correctly!
-        </span>
-    </h2>
-</h1>
+<p align="center">
+    <span style="font-size: 24px;">
+        <strong>SERVERS</strong>
+    <br>
+    <span style="font-size: 18px;">
+        <span>Server owners be aware that </span>
+        <strong>
+            <span style="color: aqua;">"enable-command-block=true"</span>
+        </strong> 
+        <span> must be set in your <strong><span style="color: aqua;">"server.properties"</span></strong> file, or armor stands and other things won't work correctly!
+    </span>
+    <br><br>
+</p>
 <!-- Map information -->
 <p>
     <img style="padding-top: 75px; padding-bottom: 25px; display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/2khFS8z/Map.png" width="100%" />
 </p>
-<p align="center"><span style="font-size: 18px;">A long highway with cars and which leads to the airport and the city</span></p>
-<p align="center"><span style="font-size: 30px;">&darr;</span></p>
-<p align="center"><span style="font-size: 18px;">the highway&sup2; leads to many places on the map that can be reached quickly and easily!</span></p>
-<p align="center"><span style="font-size: 18px;">A big city with a massive hotel&sup3; and a big redstone construction⁴</span></p>
-<p align="center"><span style="font-size: 30px;">&darr;</span></p>
-<p align="center"><span style="font-size: 18px;">The hotel has a big lobby with workers, a restaurant, lights, bedrooms and much more!</span></p>
-<p align="center"><span style="font-size: 18px;">Many working redstone circuits!</span></p>
-<p align="center"><span style="font-size: 30px;">&darr;</span></p>
-<p align="center"><span style="font-size: 18px;">Our houses, the airport, the hotel, the city, the highway, the tunnel and the cars work with redstone circuits!</span></p>
-<p align="center"><span style="font-size: 18px;">A big Airport with planes and check-in stations⁵</span></p>
-<p align="center"><span style="font-size: 30px;">&darr;</span></p>
-<p align="center"><span style="font-size: 18px;">The airport has four check-in stations⁶ and many shops⁷ where you can buy food, snacks, drinks, etc.</span></p>
+<p align="center">
+    <span style="font-size: 18px;">A long highway with cars and which leads to the airport and the city</span>
+</p>
+<p align="center">
+    <span style="font-size: 30px;">&darr;</span>
+</p>
+<p align="center">
+    <span style="font-size: 18px;">the highway&sup2; leads to many places on the map that can be reached quickly and easily!</span>
+</p>
+<p align="center">
+    <span style="font-size: 18px;">A big city with a massive hotel&sup3; and a big redstone construction⁴</span>
+</p>
+<p align="center">
+    <span style="font-size: 30px;">&darr;</span>
+</p>
+<p align="center">
+    <span style="font-size: 18px;">The hotel has a big lobby with workers, a restaurant, lights, bedrooms and much more!</span>
+</p>
+<p align="center">
+    <span style="font-size: 18px;">Many working redstone circuits!</span>
+</p>
+<p align="center">
+    <span style="font-size: 30px;">&darr;</span>
+</p>
+<p align="center">
+    <span style="font-size: 18px;">Our houses, the airport, the hotel, the city, the highway, the tunnel and the cars work with redstone circuits!</span>
+</p>
+<p align="center">
+    <span style="font-size: 18px;">A big Airport with planes and check-in stations⁵</span>
+</p>
+<p align="center">
+    <span style="font-size: 30px;">&darr;</span>
+</p>
+<p align="center">
+    <span style="font-size: 18px;">The airport has four check-in stations⁶ and many shops⁷ where you can buy food, snacks, drinks, etc.</span>
+</p>
 <!-- Support -->
 <p>
     <img style="padding-top: 75px; padding-bottom: 25px;" src="https://i.ibb.co/pnrkPzC/Socials.png" width="100%"/>
@@ -72,7 +102,7 @@
     <br>
     <span style="font-size: 35px; color: #7393b3;">
         <a style="color: gray; text-decoration: none;">[</a>
-        <a style="font-size: 35px; color: rgb(115, 147, 179); text-decoration: none;" title="Join our Discord" href="https://discord.com/invite/QtfUyFNtJD">Discord</a>
+        <a style="font-size: 35px; color: rgb(115, 147, 179); text-decoration: none;" title="Discord" href="https://discord.com/invite/HeRwHB2QQk">Discord</a>
         <a style="color: gray; text-decoration: none;">]</a>
     </span>
     <br>
@@ -84,7 +114,14 @@
     <br>
     <span style="font-size: 35px; color: #7393b3;">
         <a style="color: gray; text-decoration: none;">[</a>
-        <a style="font-size: 35px; color: rgb(115, 147, 179); text-decoration: none;" title="Whatsapp" href="https://wa.me/+4917662597080">Whatsapp</a>
+        <a style="font-size: 35px; color: rgb(115, 147, 179); text-decoration: none;" title="Minecraft">Minecraft: SuffixHD & itsmarian</a>
         <a style="color: gray; text-decoration: none;">]</a>
     </span>
+    <br><br>
 </h1>
+
+<p align="center">
+    <a href="https://bit.ly/ProjektCityAG?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2">Application Guidelines</a>&nbsp;•&nbsp;<a href="https://bit.ly/ProjektCityAccessebilityStatement?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2">Accessebility statement</a>&nbsp;•&nbsp;<a href="https://bit.ly/ProjektCityAdvertisementTerms?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2">Advertisement Terms</a>
+    <br>
+    <a href="https://bit.ly/ProjektCityImprint?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2">Imprint</a>&nbsp;•&nbsp;<a href="https://bit.ly/ProjektCityPrivacy?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2">Privacy Policy</a>&nbsp;•&nbsp;<a href="https://bit.ly/ProjektCityTerms?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2">Terms of use</a>&nbsp;•&nbsp;<a href="https://bit.ly/ProjektCityUseOurWorld?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2">Use Our World</a>
+</p>
