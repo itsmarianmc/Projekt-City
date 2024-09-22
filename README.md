@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-**by SuffixHD & itsmarian**
+<strong>by SuffixHD & itsmarian</strong>
 </p>
 
 &nbsp;
