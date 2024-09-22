@@ -84,7 +84,7 @@ Large forests and detailed trees
 
 [You can find all special information on our official website!](https://itsmarian.wixsite.com/helpcenter/website-specials)
 
-For informations about the map, installation license and version read the [File Informations](/blob/main/File%2FInformations.txt)
+For informations about the map, installation license and version read the [Informations](/blob/main/Informations.txt) file
 
 
 This document contains links to third party websites and resources, which are inserted for convenience only. Projekt City (may) has no control over the content of these websites or resources and accepts no responsibility for them or for any loss or damage that may arise from their use!
