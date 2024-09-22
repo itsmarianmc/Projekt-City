@@ -16,83 +16,53 @@
         feedback, suggestions and wishes for this project, so that all players have fun on our map. We are trying to become more professional with every update and are constantly improving our building skills.
     </span>
 </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <!-- Informations -->
-<p><img style="display: block; margin-left: auto; margin-right: auto; padding-top: 75px; padding-bottom: 25px;" src="https://i.ibb.co/tP56Bg6/Informations.png" width="100%" /></p>
-<h2>&nbsp;</h2>
+<p><img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://i.ibb.co/tP56Bg6/Informations.png" width="100%" /></p>
+
 <h2 align="center">
-    <span style="font-size: 24px; color: #000000;" data-darkreader-inline-color="">
-        <strong><span style="color: gray; font-size: 25px;" data-darkreader-inline-color="">Project start:&nbsp;</span></strong>
-    </span>
-    <span style="font-size: 25px; color: rgb(52, 73, 94); --darkreader-inline-color: #7c9db8;" data-darkreader-inline-color="">12/28/2022</span>
+    <span style="font-size: 24px; color: gray;">Project start:&nbsp;</span>
+    <span style="font-size: 25px; color: rgb(52, 73, 94);">12/28/2022</span>
 </h2>
 <h2 align="center">
     <span style="font-size: 24px;">
-        <strong>
-            <span style="color: #000000;" data-darkreader-inline-color="">
-                <strong><span style="color: gray; font-size: 24px;" data-darkreader-inline-color="">Expected end:</span><span style="font-size: 25px; color: #7393b3;" data-darkreader-inline-color="">&nbsp;never</span></strong>
-            </span>
-        </strong>
+        <strong><span style="color: gray; font-size: 24px;">Expected end:</span><span style="font-size: 25px; color: #7393b3;">&nbsp;never</span></strong>
     </span>
 </h2>
-<p>&nbsp;</p>
-<h1 align="center"><span style="font-size: 24px;">SERVERS</span></h1>
+
 <!-- Servers -->
+<h1 align="center"><span style="font-size: 24px;">SERVERS</span></h1>
 <h2 align="center">
-    <span style="font-size: 24px; color: #7393b3;" data-darkreader-inline-color="">
-        <span style="font-size: 18px;">
-            <span style="font-size: 24px;">
-                <strong>
-                    <span style="color: #000000;" data-darkreader-inline-color="">
-                        <span style="font-size: 18px; color: #7393b3;" data-darkreader-inline-color="">Server owners be aware that "&nbsp;</span>
-                        <span style="color: aqua;" data-darkreader-inline-color=""><strong>enable-command-block=true</strong></span><span style="font-size: 18px;">&nbsp;</span>
-                    </span>
-                </strong>
-            </span>
-        </span>
-    </span>
-    <span style="font-size: 24px; color: #ff9900;" data-darkreader-inline-color="">
+    <span style="font-size: 18px;">
         <strong>
-            <span style="color: #000000;" data-darkreader-inline-color=""><span style="font-size: 18px; color: #7393b3;" data-darkreader-inline-color="">" must be set in your "&nbsp;</span></span>
-        </strong>
-    </span>
-    <span style="font-size: 24px; color: #ff9900;" data-darkreader-inline-color="">
-        <strong>
-            <span style="color: #000000;" data-darkreader-inline-color="">
-                <span style="color: aqua;" data-darkreader-inline-color=""><strong>server.properties</strong></span>
-                <span style="font-size: 18px; color: #7393b3;" data-darkreader-inline-color="">&nbsp;" file or armor stands and other things won't work correctly!</span>
-            </span>
-        </strong>
+            <span style="color: aqua;">enable-command-block=true</span>
+        </strong> 
+        must be set in your <strong><span style="color: aqua;">server.properties</span></strong> file, or armor stands and other things won't work correctly!
     </span>
 </h2>
-<h5>&nbsp;</h5>
+
 <!-- Map information -->
-<p>
-    <span style="font-size: 24px;"><img style="padding-top: 75px; padding-bottom: 25px; display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/2khFS8z/Map.png" width="100%" /></span>
-</p>
+<p><img style="padding-top: 75px; padding-bottom: 25px; display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/2khFS8z/Map.png" width="100%" /></p>
 <p align="center"><span style="font-size: 18px;">A long highway with cars and which leads to the airport and the city</span></p>
 <p align="center"><span style="font-size: 30px;">&darr;</span></p>
 <p align="center"><span style="font-size: 18px;">the highway&sup2; leads to many places on the map that can be reached quickly and easily!</span></p>
-<p>&nbsp;</p>
+
 <p align="center"><span style="font-size: 18px;">A big city with a massive hotel&sup3; and a big redstone construction⁴</span></p>
 <p align="center"><span style="font-size: 30px;">&darr;</span></p>
 <p align="center"><span style="font-size: 18px;">The hotel has a big lobby with workers, a restaurant, lights, bedrooms and much more!</span></p>
-<p>&nbsp;</p>
+
 <p align="center"><span style="font-size: 18px;">Many working redstone circuits!</span></p>
 <p align="center"><span style="font-size: 30px;">&darr;</span></p>
 <p align="center"><span style="font-size: 18px;">Our houses, the airport, the hotel, the city, the highway, the tunnel and the cars work with redstone circuits!</span></p>
-<p>&nbsp;</p>
+
 <p align="center"><span style="font-size: 18px;">A big Airport with planes and check-in stations⁵</span></p>
 <p align="center"><span style="font-size: 30px;">&darr;</span></p>
 <p align="center"><span style="font-size: 18px;">The airport has four check-in stations⁶ and many shops⁷ where you can buy food, snacks, drinks, etc.</span></p>
-<p>&nbsp;</p>
-<p align="center"><span style="font-size: 18px;">Various hills/mountains with trees, streets and a long tunnel</span></p>
-<p align="center"><span style="font-size: 18px;">Large forests and detailed trees</span></p>
-<p>&nbsp;</p>
+
 <!-- Trailer -->
 <p><img style="padding-top: 75px; padding-bottom: 25px;" src="https://i.ibb.co/k939TDH/Trailer.png" width="100%" /></p>
 <p align="center"><iframe src="https://www.youtube.com/embed/bB5IUyPRXO8?si=Ie0Yp4XZBMpA0US5" width="560" height="315"></iframe></p>
+
 <!-- Support -->
 <p><img style="padding-top: 75px; padding-bottom: 25px;" src="https://i.ibb.co/pnrkPzC/Socials.png" width="100%" /></p>
 <h1 align="center">
