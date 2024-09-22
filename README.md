@@ -33,46 +33,74 @@ Expected end: 09/01/2024 [PAUSED INDEFINITELY]
 
 **SERVERS**
 
-  Server owners be aware that "enable-command-block=true" must be set in your "server.properties" file or armor stands and other things won't work correctly!
+Server owners be aware that "enable-command-block=true" must be set in your "server.properties" file or armor stands and other things won't work correctly!
 
 &nbsp;
 
+<p align="center">
 **#3 Map**
+</p>
 
+<p align="center">
 A long highway with cars and which leads to the airport and the city
+</p>
 
+<p align="center">
 ↓
+</p>
 
+<p align="center">
 the highway² leads to many places on the map that can be reached quickly and easily!
+</p>
 
 &nbsp;
 
+<p align="center">
 A big city with a massive hotel³ and a big redstone construction⁴
+</p>
 
+<p align="center">
 ↓
+</p>
 
+<p align="center">
 The hotel has a big lobby with workers, a restaurant, lights, bedrooms and much more!
+</p>
 
 &nbsp;
 
+<p align="center">
 Many working redstone circuits!
+</p>
 
+<p align="center">
 ↓
+</p>
 
+<p align="center">
 Our houses, the airport, the hotel, the city, the highway, the tunnel and the cars work with redstone circuits!
+</p>
 
 &nbsp;
 
+<p align="center">
 A big Airport with planes and check-in stations⁵
+</p>
 
+<p align="center">
 ↓
+</p>
 
+<p align="center">
 The airport has four check-in stations⁶ and many shops⁷ where you can buy food, snacks, drinks, etc.
+</p>
 
 &nbsp;
 
+<p align="center">
 Various hills/mountains with trees, streets and a long tunnel
 Large forests and detailed trees
+</p>
 
 &nbsp;
 
