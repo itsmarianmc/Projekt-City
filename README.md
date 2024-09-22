@@ -1,150 +1,71 @@
-<p align="center">
-𝐏𝐫𝐨𝐣𝐞𝐤𝐭 𝐂𝐢𝐭𝐲
-</p>
-
-<p align="center">
-<strong>by SuffixHD & itsmarian</strong>
-</p>
-
-&nbsp;
-&nbsp;
-
-<p align="center">
-<strong>What is Projekt City?</strong>
-</p>
-
-Projekt City is an unfunded, free, massive and unique Minecraft project. We have the mission to create a Minecraft world that is easy to understand for everyone and completely free to play. 
-
-On this world called "Projekt City" we are building a large Minecraft map with a city, an airport, a hotel and much more, paying a lot of attention to small details, accurate and flawless work. We implement this through complicated redstone constructions and commands, for example, to offer our players an even more enjoyable and better gaming experience. 
-The map of Projekt City has a width of 1086 meters and a length of 1159 meters and a total area of 1,258,674 square meters*, making it an extremely large Minecraft project!
-
-Our current focus is on the airport and the hotel, as they require a lot of effort and take up a very large part of the map. 
-
-All versions after 4.1 are in English² and will remain in English as long as we have not finished the project, as it is too much effort to add other languages. We will try to add other languages like German, French and Italian after the project is finished to make our world easier to understand for even more players!
-To give players more and more detailed information, we have created a website where you can find all important information and ask us questions. We try to fulfill every wish of our players and supporters as professionally and quickly as possible and to create a bug-free world. Therefore we ask you to report bugs and errors in our Discord server or our Forum to us. We are always trying to become more professional, more accurate and better and are constantly expanding and improving our building, redstone and command skills!
-
-&nbsp;
-
-<p align="center">
-<strong>#2 Informations</strong>
-</p>
-
-Project start: 12/28/2022
-
-Expected end: 09/01/2024 [PAUSED INDEFINITELY]
-
-&nbsp;
-
-**SERVERS**
-
-Server owners be aware that "enable-command-block=true" must be set in your "server.properties" file or armor stands and other things won't work correctly!
-
-&nbsp;
-
-<p align="center">
-<strong>Map</strong>
-</p>
-
-<p align="center">
-A long highway with cars and which leads to the airport and the city
-</p>
-
-<p align="center">
-↓
-</p>
-
-<p align="center">
-the highway² leads to many places on the map that can be reached quickly and easily!
-</p>
-
-&nbsp;
-
-<p align="center">
-A big city with a massive hotel³ and a big redstone construction⁴
-</p>
-
-<p align="center">
-↓
-</p>
-
-<p align="center">
-The hotel has a big lobby with workers, a restaurant, lights, bedrooms and much more!
-</p>
-
-&nbsp;
-
-<p align="center">
-Many working redstone circuits!
-</p>
-
-<p align="center">
-↓
-</p>
-
-<p align="center">
-Our houses, the airport, the hotel, the city, the highway, the tunnel and the cars work with redstone circuits!
-</p>
-
-&nbsp;
-
-<p align="center">
-A big Airport with planes and check-in stations⁵
-</p>
-
-<p align="center">
-↓
-</p>
-
-<p align="center">
-The airport has four check-in stations⁶ and many shops⁷ where you can buy food, snacks, drinks, etc.
-</p>
-
-&nbsp;
-
-<p align="center">
-Various hills/mountains with trees, streets and a long tunnel
-Large forests and detailed trees
-</p>
-
-&nbsp;
-
-<p align="center">
-**#4 Support**
-</p>
-
-<p align="center">
-[Email](mailto:projektcityofficial@gmail.com)
-</p>
-
-<p align="center">
-[Webseite](https://bit.ly/ProjektCity)
-</p>
-
-<p align="center">
-<a href="https://discord.gg/HeRwHB2QQk">[Discord]</a>
-</p>
-
-&nbsp;
-
-#5 Special Informations
-
-[You can find all special information on our official website!](https://itsmarian.wixsite.com/helpcenter/website-specials?utm_src=projektcity_github_information&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City)
-
-For informations about the map, installation, license playing, version and using the world read the [Informations](/Informations.txt) file
-
-
-This document contains links to third party websites and resources, which are inserted for convenience only. Projekt City (may) has no control over the content of these websites or resources and accepts no responsibility for them or for any loss or damage that may arise from their use!
-
-
-IMAGES SIMULATED FOR ILLUSTRATIVE PURPOSES ONLY! Actual gameplay may differ.
-
-
-Some optional items may require purchase!
-
-&nbsp;
-
-[Application Guidelines](https://bit.ly/ProjektCityAG?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2)&nbsp;•&nbsp;[Accessebility statement](https://bit.ly/ProjektCityAccessebilityStatement?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2)&nbsp;•&nbsp;[Advertisement Terms](https://bit.ly/ProjektCityAdvertisementTerms?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2)
-
-[Imprint](https://bit.ly/ProjektCityImprint?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2)&nbsp;•&nbsp;[Privacy Policy](https://bit.ly/ProjektCityPrivacy?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2)&nbsp;•&nbsp;[Terms of use](https://bit.ly/ProjektCityTerms?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2)&nbsp;•&nbsp;[Use Our World](https://bit.ly/ProjektCityUseOurWorld?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2)
-
-</p>
+<!-- Header -->
+<h1 style="text-align: center;"><a title="Download " href="https://www.curseforge.com/minecraft/worlds/projekt-city/files/all">
+<img src="https://media.forgecdn.net/attachments/description/782396/description_72bc938c-52b7-41b1-9974-086df5816928.png" alt="DOWNLOAD PROJEKT CITY" width="30" height="30"></a>
+<a style="text-decoration: none;" href="https://www.curseforge.com/minecraft/worlds/projekt-city/files/all"> 5000 DOWNLOADS </a>
+<a title="Download" href="https://www.curseforge.com/minecraft/worlds/projekt-city/files/all"><img src="https://media.forgecdn.net/attachments/description/782396/description_99093bc9-9724-4eef-bc3f-ca45aee7b1bb.png" alt="DOWNLOAD PROJEKT CITY" width="30" height="30"></a></h1>
+<hr>
+<h1 style="text-align: center;"><strong><em><span style="text-decoration: underline;">Projekt City</span></em></strong></h1>
+<p style="text-align: center; line-height: 40%;">by SuffixHD &amp; <a style="text-decoration: none;" title="OWNER | itsmarian_mc" href="https://www.curseforge.com/members/itsmarian_mc">itsmarian</a></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto; padding-top: 40px; padding-bottom: 40px;" src="https://i.ibb.co/8x5cYXk/Map.png" width="1250" height="1454"></p>
+<h5 style="text-align: center;"><span style="font-size: 20px;">Map Overview⁰</span></h5>
+<hr>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">&nbsp;</span></p>
+<!-- Our mission -->
+<h1 style="text-align: center;"><span style="font-size: 35px;"><strong>Projekt City</strong></span></h1>
+<p style="text-align: center;"><span style="font-size: 18px;">"Projekt City" is an unfunded, free and massive Minecraft project! Our mission is to entertain as many players as possible and create a fun and easy to understand map that is completely free to play. </span></p>
+<p style="text-align: center;"><span style="font-size: 18px;">The entire map is in English&sup1; and will remain so from now on, as it is too complicated to add other languages. However, all versions except V4.2 are currently in German as we forgot to update it. We hope you understand. Version V4.2 contains (so far) everything in English. We try to fulfil every wish as well and as quickly as possible. Requests can be made on our Discord⁸ server, on our website and in the Curseforge Comments. We are looking forward to your feedback, suggestions and wishes for this project, so that all players have fun on our map. We are trying to become more professional with every update and are constantly improving our building skills. </span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 24px;">&nbsp;</span>&nbsp;</p>
+<!-- Informations -->
+<p><img style="display: block; margin-left: auto; margin-right: auto; padding-top: 75px; padding-bottom: 25px;" src="https://i.ibb.co/tP56Bg6/Informations.png" width="100%"></p>
+<h2 style="padding-left: 30px; text-align: center;">&nbsp;</h2>
+<h2 style="padding-left: 30px; text-align: center;"><span style="font-size: 24px; color: #000000;" data-darkreader-inline-color=""><strong><span style="color: gray; font-size: 25px;" data-darkreader-inline-color="">Project start:&nbsp;</span></strong></span><span style="font-size: 25px; color: rgb(52, 73, 94); --darkreader-inline-color: #7c9db8;" data-darkreader-inline-color="">12/28/2022</span></h2>
+<h2 style="padding-left: 30px; text-align: center;"><span style="font-size: 24px;"><strong><span style="color: #000000;" data-darkreader-inline-color=""><strong><span style="color: gray; font-size: 24px;" data-darkreader-inline-color="">Expected end:</span><span style="font-size: 25px; color: #7393b3;" data-darkreader-inline-color="">&nbsp;never</span></strong></span></strong></span></h2>
+<p style="padding-left: 30px; text-align: center;">&nbsp;</p>
+<h1 style="padding-left: 30px; text-align: center;"><span style="font-size: 24px;">SERVERS </span>&nbsp;</h1>
+<!-- Servers -->
+<h2 style="text-align: center;"><span style="font-size: 24px; color: #7393b3;" data-darkreader-inline-color=""><span style="font-size: 18px;"><span style="font-size: 24px;"><strong><span style="color: #000000;" data-darkreader-inline-color=""><span style="font-size: 18px; color: #7393b3;" data-darkreader-inline-color="">Server owners be aware that "&nbsp;</span><span style="color: aqua;" data-darkreader-inline-color=""><strong>enable-command-block=true</strong></span><span style="font-size: 18px;">&nbsp;</span></span></strong></span></span></span><span style="font-size: 24px; color: #ff9900;" data-darkreader-inline-color=""><strong><span style="color: #000000;" data-darkreader-inline-color=""><span style="font-size: 18px; color: #7393b3;" data-darkreader-inline-color="">" must be set in your "&nbsp;</span></span></strong></span><span style="font-size: 24px; color: #ff9900;" data-darkreader-inline-color=""><strong><span style="color: #000000;" data-darkreader-inline-color=""><span style="color: aqua;" data-darkreader-inline-color=""><strong>server.properties</strong></span><span style="font-size: 18px; color: #7393b3;" data-darkreader-inline-color="">&nbsp;" file or armor stands and other things won't work correctly!</span></span></strong></span></h2>
+<h5 style="padding-left: 30px; text-align: center;"><span style="font-size: 24px;">&nbsp;</span>&nbsp;</h5>
+<!-- Map information -->
+<p><span style="font-size: 24px;"><img style="padding-top: 75px; padding-bottom: 25px; display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/2khFS8z/Map.png" width="100%"></span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">A long highway with cars and which leads to the airport and the city</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 30px;">&darr;</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">the highway&sup2; leads to many places on the map that can be reached quickly and easily!</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">&nbsp;</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">A big city with a massive hotel&sup3; and a big redstone construction⁴</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 30px;">&darr;</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">The hotel has a big lobby with workers, a restaurant, lights, bedrooms and much more!</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">&nbsp;</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">Many working redstone circuits!</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 30px;">&darr;</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">Our houses, the airport, the hotel, the city, the highway, the tunnel and the cars work with redstone circuits!</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">&nbsp;</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">A big Airport with planes and check-in stations⁵</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 30px;">&darr;</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">The airport has four check-in stations⁶ and many shops⁷ where you can buy food, snacks, drinks, etc.</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">&nbsp;</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">Various hills/mountains with trees, streets and a long tunnel</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">Large forests and detailed trees</span></p>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 24px;">&nbsp;</span>&nbsp;</p>
+<!-- Trailer -->
+<p><img style="padding-top: 75px; padding-bottom: 25px;" src="https://i.ibb.co/k939TDH/Trailer.png" width="100%"></p>
+<p><span style="display: block; margin-left: auto; margin-right: auto; text-align: center;"><iframe src="https://www.youtube.com/embed/bB5IUyPRXO8?si=Ie0Yp4XZBMpA0US5" width="560" height="315"></iframe></span></p>
+<!-- Support -->
+<p><span style="font-size: 24px;"><img style="padding-top: 75px; padding-bottom: 25px;" src="https://i.ibb.co/pnrkPzC/Socials.png" width="100%"></span></p>
+<h1 style="text-align: center;"><span style="font-size: 35px; color: #7393b3;" data-darkreader-inline-color=""><a style="color: gray; text-decoration: none;" data-darkreader-inline-color="">[</a><span style="--darkreader-inline-color: #e8e6e3;"><a style="cursor: pointer; font-size: 35px; color: rgb(115, 147, 179); text-decoration: none; --darkreader-inline-color: #e8e6e3;" title="Minecraft" href="mailto:projektcityofficial@gmail.com" data-darkreader-inline-color="">E-Mail</a></span><a style="color: gray; text-decoration: none;" data-darkreader-inline-color="">]</a></span></h1>
+<h1 style="text-align: center;"><span style="font-size: 35px; color: #7393b3;" data-darkreader-inline-color=""><a style="color: gray; text-decoration: none;" data-darkreader-inline-color="">[</a><a style="font-size: 35px; color: rgb(115, 147, 179); text-decoration: none; --darkreader-inline-color: #7c9db8;" title="Website" href="https://bit.ly/projekt-city" data-darkreader-inline-color="">Website</a><a style="color: gray; text-decoration: none;" data-darkreader-inline-color="">]</a></span></h1>
+<h1 style="text-align: center;"><span style="font-size: 35px; color: #7393b3;" data-darkreader-inline-color=""><a style="color: gray; text-decoration: none;" data-darkreader-inline-color="">[</a><a style="font-size: 35px; color: rgb(115, 147, 179); text-decoration: none; --darkreader-inline-color: #7c9db8;" title="Discord" href="https://discord.gg/SZEMWyP8TF" data-darkreader-inline-color="">Discord</a><a style="color: gray; text-decoration: none;" data-darkreader-inline-color="">]</a><a style="color: gray; text-decoration: none;" data-darkreader-inline-color="">⁸</a></span></h1>
+<h1 style="text-align: center;"><span style="font-size: 35px; color: #7393b3; text-decoration: none;" data-darkreader-inline-color=""> <a style="color: gray; text-decoration: none;" data-darkreader-inline-color="">[</a><a style="color: rgb(0, 187, 0); text-decoration: none;" data-darkreader-inline-color="">Minecraft:</a><a style="cursor: pointer; font-size: 35px; color: #7393b3; text-decoration: none;" title="Minecraft" data-darkreader-inline-color=""> <span style="color: rgb(115, 147, 179);" data-darkreader-inline-color="">itsmarian &amp; SuffixHD</span></a><a style="color: gray; text-decoration: none;" data-darkreader-inline-color="">]</a></span></h1>
+<p style="padding-left: 30px; text-align: center;"><span style="font-size: 24px;">&nbsp;</span>&nbsp;</p>
+<!-- Specials -->
+<p><span style="font-size: 24px;"><img style="padding-top: 75px; padding-bottom: 25px;" src="https://i.ibb.co/dfJVYx1/Special.png" width="100%"></span></p>
+<p style="text-align: center; font-size: 8px;"><a style="text-decoration: none; color: #999999;" href="https://itsmarian.wixsite.com/helpcenter/website-specials" data-darkreader-inline-color="">[You can find all special information on our official website!]</a></p>
+<p style="text-align: center; font-size: 8px;">The images on this website are protected by copyright and may not be used on other websites (other than the official Project City website). Modification or other processing of the images used for other purposes is prohibited. Any infringement of these rights will be reported!</p>
+<p style="text-align: center; font-size: 10px;">[!!] IMAGES SIMULATED FOR ILLUSTRATIVE PURPOSES ONLY! [!!]</p>
+<p style="text-align: center; font-size: 10px;">[!!] Some optional items, texture packs, mod packs or shaders may require purchase! [!!]</p>
+<h1 style="text-align: center; font-size: 20px;">&copy; 2024 Projekt City | All rights reserved</h1>
+<!-- Projekt City -->
+<!-- Written by itsmarian -->
+<!-- Official Website: bit.ly/ProjektCity -->
+<!-- POWERED BY PROJEKT CITY -->
+<!-- ©️ 2024 ProjektCity | All rights reserved!-->
