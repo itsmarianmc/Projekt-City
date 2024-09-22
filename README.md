@@ -1,3 +1,5 @@
+[License](/licence.txt)
+
 **𝐏𝐫𝐨𝐣𝐞𝐤𝐭 𝐂𝐢𝐭𝐲**
 
 **by SuffixHD & itsmarian**
