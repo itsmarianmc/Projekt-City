@@ -25,6 +25,7 @@ A long highway with cars and which leads to the airport and the city
 
 the highway² leads to many places on the map that can be reached quickly and easily!
 
+&nbsp;
 
 A big city with a massive hotel³ and a big redstone construction⁴
 
@@ -32,7 +33,7 @@ A big city with a massive hotel³ and a big redstone construction⁴
 
 The hotel has a big lobby with workers, a restaurant, lights, bedrooms and much more!
 
-
+&nbsp;
 
 Many working redstone circuits!
 
@@ -41,14 +42,13 @@ Many working redstone circuits!
 Our houses, the airport, the hotel, the city, the highway, the tunnel and the cars work with redstone circuits!
 
 
-
 A big Airport with planes and check-in stations⁵
 
 ↓
 
 The airport has four check-in stations⁶ and many shops⁷ where you can buy food, snacks, drinks, etc.
 
-
+&nbsp;
 
 Various hills/mountains with trees, streets and a long tunnel
 Large forests and detailed trees
