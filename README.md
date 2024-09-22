@@ -5,7 +5,7 @@
 &nbsp;
 &nbsp;
 
-#1 What is Projekt City?
+**#1 What is Projekt City?**
 
 Projekt City is an unfunded, free, massive and unique Minecraft project. We have the mission to create a Minecraft world that is easy to understand for everyone and completely free to play. 
 
@@ -19,8 +19,7 @@ To give players more and more detailed information, we have created a website wh
 
 &nbsp;
 
-#2 Informations
-
+**#2 Informations**
 
 Project start: 12/28/2022
 
@@ -28,13 +27,13 @@ Expected end: 09/01/2024 [PAUSED INDEFINITELY]
 
 &nbsp;
 
-<u>SERVERS</u>
+**SERVERS**
 
 Server owners be aware that "enable-command-block=true" must be set in your "server.properties" file or armor stands and other things won't work correctly!
 
 &nbsp;
 
-#3 Map
+**#3 Map**
 
 A long highway with cars and which leads to the airport and the city
 
@@ -73,6 +72,6 @@ Large forests and detailed trees
 
 &nbsp;
 
-#4 Support
+**#4 Support**
 
 [Webseite](https://bit.ly/ProjektCity)
