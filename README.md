@@ -1,10 +1,10 @@
 <!-- Header -->
-<h1 align="center">
-    <strong>
-        <a style="text-decoration: underline;">Projekt City</a>
-    </strong>
-</h1>
-<p align="center" style="line-height: 40%;">by SuffixHD &amp; <a style="text-decoration: none;" title="OWNER | itsmarian_mc" href="https://www.curseforge.com/members/itsmarian_mc">itsmarian</a></p>
+<strong>
+    <a style="text-decoration: underline;">Projekt City</a>
+</strong>
+<p align="center">
+    <a style="text-decoration: none;" title="OWNER | SuffixHD" href="https://www.curseforge.com/members/SuffixHD">by SuffixHD &amp; <a style="text-decoration: none;" title="OWNER | itsmarian_mc" href="https://www.curseforge.com/members/itsmarian_mc">itsmarian</a>
+</p>
 <!-- Our mission -->
 <p align="center">
     <span style="font-size: 18px;">"Projekt City" is an unfunded, free and massive Minecraft project! Our mission is to entertain as many players as possible and create a fun and easy to understand map that is completely free to play.</span>
