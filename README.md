@@ -1,5 +1,9 @@
 **𝐏𝐫𝐨𝐣𝐞𝐤𝐭 𝐂𝐢𝐭𝐲**
-<u>by SuffixHD & itsmarian</u>
+
+**by SuffixHD & itsmarian**
+
+&nbsp;
+&nbsp;
 
 #1 What is Projekt City?
 
