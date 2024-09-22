@@ -1,4 +1,5 @@
-𝐏𝐫𝐨𝐣𝐞𝐤𝐭 𝐂𝐢𝐭𝐲  
+**𝐏𝐫𝐨𝐣𝐞𝐤𝐭 𝐂𝐢𝐭𝐲**
+<u>by SuffixHD & itsmarian</u>
 
 #1 What is Projekt City?
 
