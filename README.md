@@ -121,7 +121,7 @@ Large forests and detailed trees
 </p>
 
 <p align="center">
-[Discord](https://discord.gg/HeRwHB2QQk)
+<a href="https://discord.gg/HeRwHB2QQk">[Discord]</a>
 </p>
 
 &nbsp;
