@@ -74,4 +74,8 @@ Large forests and detailed trees
 
 **#4 Support**
 
+[Email](mailto:projektcityofficial@gmail.com)
+
 [Webseite](https://bit.ly/ProjektCity)
+
+[Discord](https://discord.gg/HeRwHB2QQk)
