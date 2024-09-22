@@ -119,9 +119,12 @@
     </span>
     <br><br>
 </h1>
-
+<!-- Specials -->
 <p align="center">
     <a href="https://bit.ly/ProjektCityAG?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2">Application Guidelines</a>&nbsp;•&nbsp;<a href="https://bit.ly/ProjektCityAccessebilityStatement?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2">Accessebility statement</a>&nbsp;•&nbsp;<a href="https://bit.ly/ProjektCityAdvertisementTerms?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2">Advertisement Terms</a>
     <br>
     <a href="https://bit.ly/ProjektCityImprint?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2">Imprint</a>&nbsp;•&nbsp;<a href="https://bit.ly/ProjektCityPrivacy?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2">Privacy Policy</a>&nbsp;•&nbsp;<a href="https://bit.ly/ProjektCityTerms?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2">Terms of use</a>&nbsp;•&nbsp;<a href="https://bit.ly/ProjektCityUseOurWorld?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2">Use Our World</a>
 </p>
+<!-- Projekt City -->
+<!-- POWERED BY PROJEKT CITY -->
+<!-- ©️ 2024 ProjektCity | All rights reserved!-->
