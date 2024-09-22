@@ -2,7 +2,7 @@
 <h1 style="text-align: center;">
     <strong>
         <em>
-            <span style="text-decoration: underline;">Projekt City</span>
+            <a style="text-decoration: underline;">Projekt City</a>
         </em>
     </strong>
 </h1>
