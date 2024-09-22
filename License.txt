@@ -1,0 +1,134 @@
+===========[ Projekt City ]===========
+
+CONTENT:
+   - Versions
+   - Installing into Minecraft
+   - License
+   - Important
+   - Playing (on Servers)
+
+-----------------------------------------------------------------
+
+VERSIONS:
+
+	----- GUARANTEED WORKING VERSIONS* -----
+	- 1.20.1
+	- 1.20.2
+	- 1.20.3
+	- 1.20.4
+
+	ANY OTHER VERSION/SNAPSHOT MAY RESULT IN AN UNPLAYABLE WORLD!
+
+	------ MAY NOT WORK CORRECTLY** -----
+	- 1.21.x		Chat interaction limited
+	- 1.20.5		Chat interaction limited
+	- 1.20.6		Chat interaction limited
+	- 1.19.x		signs are not displayed correctly
+	- 1.18.x		signs are not displayed correctly & some commands in command blocks do not work
+	- 1.17.x or below	world is loaded as standard minecraft world
+
+-----------------------------------------------------------------
+
+INSTALLING:
+	
+	---- Import into minecraft folder ----
+	(1) Right click on the .zip file "Projekt City [V5.0]" and click "extract all"
+	(2) Click on "extract"
+	(3) After that you right click on the file and copy it
+	(4) Then you press the windows symbol and type " run " and open the app, enter " %appdata% " and click " Ok "
+	(5) Go into " .minecraft " --> " saves " and paste the copied folder
+
+	---- Import onto server ----
+	(1) Right click on the .zip file "Projekt City [V5.0]" and click "extract all"
+	(2) Click on "extract"
+	(3) Right click on the file and copy it
+	(4) Go to your server folder
+	(5) Paste the copied folder
+	(6) Rename the folder if neccessary to "world"
+
+	----- ISSUES -----
+	PLEASE CHECK THAT WHEN YOU OPEN THE FOLDER "Projekt City [V5.0]" YOU SEE 10 FOLDERS.
+	ONE OF THEM SHOULD BE NAMED "DATA" or "ENTITIES" IF YOU SEE ANOTHER FOLDER NAMED "Projekt City [V5.0]"
+	YOU HAVE TO MOVE THAT FOLDER IN THE "SAVES" FOLDER! OTHERWISE YOU MAY CAN NOT PLAY THIS WORLD.
+	
+	For help visit: 	https://help.minecraft.net/hc/en-us/articles/360053272471
+	For a tutorial visit: 	https://bit.ly/ProjektCityWorldImport
+	Add world with MV:	https://apexminecrafthosting.com/multiverse-core-plugin/
+	
+-----------------------------------------------------------------
+
+LICENCE:
+	
+	Projekt City gives you permission to use this world
+	for private purposes. All files are the property 
+	of Projekt City Ltd. (operated by itsmarian & SuffixHD)
+	according to intellectual property laws and treaties 
+	and are protected by Copyright. 
+	The world, their files and documents are not public 
+	domain, and are protected by the copyright laws
+	of Germany / Europe!
+
+-----------------------------------------------------------------
+
+IMPORTANT:
+
+	Errors may occur or the world may become unplayable.
+	Beta versions may contain errors or bugs and the map
+	may be unplayable! You are aware of that!
+	The images and (trailer) videos of Project City are
+	simulated for illustration purposes and contain
+	non-gameplay footage. Actual game experience may differ! 
+	Projekt City is not liable for damage to the device,
+	its software or other locations caused by the world.
+	The author shall not be liable for any 
+	indirect, consequential or incidental
+	damages arising out of the use or inability
+	to use the world!
+
+-----------------------------------------------------------------
+
+PLAYING:
+
+	For a good gaming experience, it is recommended to set a
+	render distance and a simulation distance of at least 16
+	chunks, otherwise some elements may not load correctly,
+	partially or not at all.
+	(SERVERS) To get the full and complete experience you
+	need Administrator / operator rights in this world. It is
+	recommended to enable the following commands for players:
+	"fill", "setblock", "teleport" ("tp") & "tellraw" are required.
+
+-----------------------------------------------------------------
+
+*  These worlds were tested with Labymod and Vanilla Minecraft and passed the test!
+   It could still happen that the world does not work or have other malfunctions!
+   x stands for any number between updates!
+
+** With these versions, the world may not work properly, load correctly
+   or contains other errors. We expressly point out that using/playing our
+   world in versions not intended for this purpose is not recommended.
+   If you play the world in these versions, you are responsible for it
+   yourself and must expect malfunctions or other errors!
+
+
+This document contains links to third party websites and resources, which are inserted for convenience only.
+Projekt City (may) has no control over the content of these websites or resources and accepts no responsibility
+for them or for any loss or damage that may arise from their use
+
+By using/playing this world you agree to the "use our world", "privacy policy" and "terms of use" of Projekt City!
+Projekt City, the Projekt City logo and its images are trademarks of Projekt City Ltd.!
+These file(s) are the property of Projekt City and may not be redistributed in accordance with our "Use our World" policy!
+Some features/functions showed in our trailer/images or on our website/s may vary. Actual gameplay may difer.
+Projekt City assumes no liability for damage (on your device) because of/or lack of operating knowledge!
+The use of this world/map is at your own risk and liability!
+For more infos visit "https://bit.ly/ProjektCityUseOurWorld"!
+
+Contact: 	projektcityofficial@gmail.com
+Discord: 	https://discord.gg/B7B8NgNwe4
+Curseforge:	https://bit.ly/ProjektCityCF
+Website: 	https://bit.ly/ProjektCity
+         	https://bit.ly/ProjektCityLinktree
+
+© 2024 Projekt City Ltd. | All Rights reserved
+
+===========[ Projekt City ]===========
