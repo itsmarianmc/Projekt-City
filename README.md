@@ -79,3 +79,16 @@ Large forests and detailed trees
 [Webseite](https://bit.ly/ProjektCity)
 
 [Discord](https://discord.gg/HeRwHB2QQk)
+
+#5 Special Informations
+
+[You can find all special information on our official website!](https://itsmarian.wixsite.com/helpcenter/website-specials)
+
+
+This document contains links to third party websites and resources, which are inserted for convenience only. Projekt City (may) has no control over the content of these websites or resources and accepts no responsibility for them or for any loss or damage that may arise from their use!
+
+
+IMAGES SIMULATED FOR ILLUSTRATIVE PURPOSES ONLY! Actual gameplay may differ.
+
+
+Some optional items may require purchase!
