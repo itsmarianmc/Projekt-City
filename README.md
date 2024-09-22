@@ -15,7 +15,11 @@ To give players more and more detailed information, we have created a website wh
 &nbsp;
 
 #2 Informations
+
+&nbsp;
+
 Project start: 12/28/2022
+
 Expected end: 09/01/2024 [PAUSED INDEFINITELY]
 
 SERVERS  
