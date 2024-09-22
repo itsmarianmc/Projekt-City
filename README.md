@@ -15,26 +15,43 @@ Expected end: 09/01/2024 [PAUSED INDEFINITELY]
 
 SERVERS  
 Server owners be aware that "enable-command-block=true" must be set in your "server.properties" file or armor stands and other things won't work correctly!
-<br>
-#3 Map&nbsp;
+
+
+#3 Map
+
 A long highway with cars and which leads to the airport and the city
-↓&nbsp;
+
+↓
+
 the highway² leads to many places on the map that can be reached quickly and easily!
-&nbsp;
+
+
 A big city with a massive hotel³ and a big redstone construction⁴
-↓&nbsp;
+
+↓
+
 The hotel has a big lobby with workers, a restaurant, lights, bedrooms and much more!
-&nbsp;
+
+
+
 Many working redstone circuits!
-↓&nbsp;
+
+↓
+
 Our houses, the airport, the hotel, the city, the highway, the tunnel and the cars work with redstone circuits!
-&nbsp;
+
+
 A big Airport with planes and check-in stations⁵
-↓&nbsp;
+
+↓
+
 The airport has four check-in stations⁶ and many shops⁷ where you can buy food, snacks, drinks, etc.
-&nbsp;
+
+
 Various hills/mountains with trees, streets and a long tunnel
 Large forests and detailed trees
-&nbsp;
+
+
 #4 Support
-&nbsp;[Webseite](https://bit.ly/ProjektCity)
+
+[Webseite](https://bit.ly/ProjektCity)
