@@ -1,9 +1,7 @@
 <!-- Header -->
 <h1 style="text-align: center;">
     <strong>
-        <em>
-            <a style="text-decoration: underline;">Projekt City</a>
-        </em>
+        <a style="text-decoration: underline;">Projekt City</a>
     </strong>
 </h1>
 <p style="text-align: center; line-height: 40%;">by SuffixHD &amp; <a style="text-decoration: none;" title="OWNER | itsmarian_mc" href="https://www.curseforge.com/members/itsmarian_mc">itsmarian</a></p>
