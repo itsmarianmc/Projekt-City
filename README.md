@@ -80,6 +80,8 @@ Large forests and detailed trees
 
 [Discord](https://discord.gg/HeRwHB2QQk)
 
+&nbsp;
+
 #5 Special Informations
 
 [You can find all special information on our official website!](https://itsmarian.wixsite.com/helpcenter/website-specials?utm_src=projektcity_github_information&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City)
