@@ -82,7 +82,7 @@ Large forests and detailed trees
 
 #5 Special Informations
 
-[You can find all special information on our official website!](https://itsmarian.wixsite.com/helpcenter/website-specials)
+[You can find all special information on our official website!](https://itsmarian.wixsite.com/helpcenter/website-specials?utm_src=projektcity_github_information&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City)
 
 For informations about the map, installation, license playing, version and using the world read the [Informations](/Informations.txt) file
 
