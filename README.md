@@ -16,13 +16,15 @@ To give players more and more detailed information, we have created a website wh
 
 #2 Informations
 
-&nbsp;
 
 Project start: 12/28/2022
 
 Expected end: 09/01/2024 [PAUSED INDEFINITELY]
 
-SERVERS  
+&nbsp;
+
+SERVERS
+
 Server owners be aware that "enable-command-block=true" must be set in your "server.properties" file or armor stands and other things won't work correctly!
 
 &nbsp;
