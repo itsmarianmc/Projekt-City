@@ -102,7 +102,7 @@ PLAYING:
 
 *  These worlds were tested with Labymod and Vanilla Minecraft and passed the test!
    It could still happen that the world does not work or have other malfunctions!
-   x stands for any number between updates!
+   x stands for any number between updates! Intended for version V5.0
 
 ** With these versions, the world may not work properly, load correctly
    or contains other errors. We expressly point out that using/playing our
