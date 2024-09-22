@@ -1,10 +1,6 @@
 <!-- Header -->
 <h1 style="text-align: center;"><strong><em><span style="text-decoration: underline;">Projekt City</span></em></strong></h1>
 <p style="text-align: center; line-height: 40%;">by SuffixHD &amp; <a style="text-decoration: none;" title="OWNER | itsmarian_mc" href="https://www.curseforge.com/members/itsmarian_mc">itsmarian</a></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto; padding-top: 40px; padding-bottom: 40px;" src="https://i.ibb.co/8x5cYXk/Map.png" width="1250" height="1454"></p>
-<h5 style="text-align: center;"><span style="font-size: 20px;">Map Overview⁰</span></h5>
-<hr>
-<p style="padding-left: 30px; text-align: center;"><span style="font-size: 18px;">&nbsp;</span></p>
 <!-- Our mission -->
 <h1 style="text-align: center;"><span style="font-size: 35px;"><strong>Projekt City</strong></span></h1>
 <p style="text-align: center;"><span style="font-size: 18px;">"Projekt City" is an unfunded, free and massive Minecraft project! Our mission is to entertain as many players as possible and create a fun and easy to understand map that is completely free to play. </span></p>
