@@ -1,4 +1,4 @@
-[License](/license.txt)
+[License](/License.txt)
 
 **𝐏𝐫𝐨𝐣𝐞𝐤𝐭 𝐂𝐢𝐭𝐲**
 
