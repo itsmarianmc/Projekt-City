@@ -41,11 +41,13 @@ Many working redstone circuits!
 Our houses, the airport, the hotel, the city, the highway, the tunnel and the cars work with redstone circuits!
 
 
+
 A big Airport with planes and check-in stations⁵
 
 ↓
 
 The airport has four check-in stations⁶ and many shops⁷ where you can buy food, snacks, drinks, etc.
+
 
 
 Various hills/mountains with trees, streets and a long tunnel
