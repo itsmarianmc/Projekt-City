@@ -19,12 +19,11 @@ To give players more and more detailed information, we have created a website wh
 
 &nbsp;
 
-<code>
 **#2 Informations**
 
 Project start: 12/28/2022
 
-<u>Expected end: 09/01/2024 [PAUSED INDEFINITELY]</u>
+Expected end: 09/01/2024 [PAUSED INDEFINITELY]
 
 &nbsp;
 
@@ -33,7 +32,6 @@ Project start: 12/28/2022
 Server owners be aware that "enable-command-block=true" must be set in your "server.properties" file or armor stands and other things won't work correctly!
 
 &nbsp;
-</code>
 
 **#3 Map**
 
