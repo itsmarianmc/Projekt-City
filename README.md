@@ -9,9 +9,11 @@
 &nbsp;
 &nbsp;
 
-**#1 What is Projekt City?**
+<p align="center">
+<strong>What is Projekt City?**</strong>
+</p>
 
-Projekt City is an unfunded, free, massive and unique Minecraft project. We have the mission to create a Minecraft world that is easy to understand for everyone and completely free to play. 
+  Projekt City is an unfunded, free, massive and unique Minecraft project. We have the mission to create a Minecraft world that is easy to understand for everyone and completely free to play. 
 
 On this world called "Projekt City" we are building a large Minecraft map with a city, an airport, a hotel and much more, paying a lot of attention to small details, accurate and flawless work. We implement this through complicated redstone constructions and commands, for example, to offer our players an even more enjoyable and better gaming experience. 
 The map of Projekt City has a width of 1086 meters and a length of 1159 meters and a total area of 1,258,674 square meters*, making it an extremely large Minecraft project!
