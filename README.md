@@ -2,7 +2,6 @@
 <h1 style="text-align: center;"><strong><em><span style="text-decoration: underline;">Projekt City</span></em></strong></h1>
 <p style="text-align: center; line-height: 40%;">by SuffixHD &amp; <a style="text-decoration: none;" title="OWNER | itsmarian_mc" href="https://www.curseforge.com/members/itsmarian_mc">itsmarian</a></p>
 <!-- Our mission -->
-<h1 style="text-align: center;"><span style="font-size: 35px;"><strong>Projekt City</strong></span></h1>
 <p style="text-align: center;"><span style="font-size: 18px;">"Projekt City" is an unfunded, free and massive Minecraft project! Our mission is to entertain as many players as possible and create a fun and easy to understand map that is completely free to play. </span></p>
 <p style="text-align: center;"><span style="font-size: 18px;">The entire map is in English&sup1; and will remain so from now on, as it is too complicated to add other languages. However, all versions except V4.2 are currently in German as we forgot to update it. We hope you understand. Version V4.2 contains (so far) everything in English. We try to fulfil every wish as well and as quickly as possible. Requests can be made on our Discord⁸ server, on our website and in the Curseforge Comments. We are looking forward to your feedback, suggestions and wishes for this project, so that all players have fun on our map. We are trying to become more professional with every update and are constantly improving our building skills. </span></p>
 <p style="text-align: center;">&nbsp;</p>
