@@ -1,4 +1,5 @@
-**𝐏𝐫𝐨𝐣𝐞𝐤𝐭 𝐂𝐢𝐭𝐲**
+<p align="center">
+<u>𝐏𝐫𝐨𝐣𝐞𝐤𝐭 𝐂𝐢𝐭𝐲</u>
 
 **by SuffixHD & itsmarian**
 
@@ -29,9 +30,7 @@ Expected end: 09/01/2024 [PAUSED INDEFINITELY]
 
 **SERVERS**
 
-<p align="center">
   Server owners be aware that "enable-command-block=true" must be set in your "server.properties" file or armor stands and other things won't work correctly!
-</p>
 
 &nbsp;
 
@@ -104,3 +103,5 @@ Some optional items may require purchase!
 [Application Guidelines](https://bit.ly/ProjektCityAG?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2)&nbsp;•&nbsp;[Accessebility statement](https://bit.ly/ProjektCityAccessebilityStatement?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2)&nbsp;•&nbsp;[Advertisement Terms](https://bit.ly/ProjektCityAdvertisementTerms?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2)
 
 [Imprint](https://bit.ly/ProjektCityImprint?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2)&nbsp;•&nbsp;[Privacy Policy](https://bit.ly/ProjektCityPrivacy?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2)&nbsp;•&nbsp;[Terms of use](https://bit.ly/ProjektCityTerms?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2)&nbsp;•&nbsp;[Use Our World](https://bit.ly/ProjektCityUseOurWorld?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=2&footer_max_lines=2)
+
+</p>
