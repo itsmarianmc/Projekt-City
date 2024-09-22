@@ -22,11 +22,13 @@
 </p>
 <h2 align="center">
     <span style="font-size: 24px; color: gray;">Project start:&nbsp;</span>
-    <br>
     <span style="font-size: 25px; color: rgb(52, 73, 94);">12/28/2022</span>
     <br>
     <span style="font-size: 24px;">
-        <strong><span style="color: gray; font-size: 24px;">Expected end:</span><span style="font-size: 25px; color: #7393b3;">&nbsp;never</span></strong>
+        <strong>
+            <span style="color: gray; font-size: 24px;">Expected end:</span>
+            <span style="font-size: 25px; color: #7393b3;">&nbsp;never</span>
+        </strong>
     </span>
 </h2>
 <!-- Servers -->
