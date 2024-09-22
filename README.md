@@ -29,7 +29,9 @@ Expected end: 09/01/2024 [PAUSED INDEFINITELY]
 
 **SERVERS**
 
-Server owners be aware that "enable-command-block=true" must be set in your "server.properties" file or armor stands and other things won't work correctly!
+<p align="center">
+  Server owners be aware that "enable-command-block=true" must be set in your "server.properties" file or armor stands and other things won't work correctly!
+</p>
 
 &nbsp;
 
