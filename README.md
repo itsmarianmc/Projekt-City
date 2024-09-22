@@ -1,7 +1,10 @@
 <p align="center">
-<u>𝐏𝐫𝐨𝐣𝐞𝐤𝐭 𝐂𝐢𝐭𝐲</u>
+𝐏𝐫𝐨𝐣𝐞𝐤𝐭 𝐂𝐢𝐭𝐲
+</p>
 
+<p align="center">
 **by SuffixHD & itsmarian**
+</p>
 
 &nbsp;
 &nbsp;
