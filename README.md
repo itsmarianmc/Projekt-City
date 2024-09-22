@@ -95,4 +95,4 @@ Some optional items may require purchase!
 
 &nbsp;
 
-[Application Guidelines](https://bit.ly/ProjektCityAG?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2)
+[Application Guidelines](https://bit.ly/ProjektCityAG?utm_src=projektcity_github_footer&return_url=https%3A%2f%2Fgithub.com%2Fitsmarianmc%2FProjekt-City&footer_line=1&footer_max_lines=2)&nbsp;•&nbsp;
