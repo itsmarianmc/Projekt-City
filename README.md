@@ -10,10 +10,10 @@
 &nbsp;
 
 <p align="center">
-<strong>What is Projekt City?**</strong>
+<strong>What is Projekt City?</strong>
 </p>
 
-  Projekt City is an unfunded, free, massive and unique Minecraft project. We have the mission to create a Minecraft world that is easy to understand for everyone and completely free to play. 
+Projekt City is an unfunded, free, massive and unique Minecraft project. We have the mission to create a Minecraft world that is easy to understand for everyone and completely free to play. 
 
 On this world called "Projekt City" we are building a large Minecraft map with a city, an airport, a hotel and much more, paying a lot of attention to small details, accurate and flawless work. We implement this through complicated redstone constructions and commands, for example, to offer our players an even more enjoyable and better gaming experience. 
 The map of Projekt City has a width of 1086 meters and a length of 1159 meters and a total area of 1,258,674 square meters*, making it an extremely large Minecraft project!
@@ -25,7 +25,9 @@ To give players more and more detailed information, we have created a website wh
 
 &nbsp;
 
-**#2 Informations**
+<p align="center">
+<strong>#2 Informations</strong>
+</p>
 
 Project start: 12/28/2022
 
@@ -40,7 +42,7 @@ Server owners be aware that "enable-command-block=true" must be set in your "ser
 &nbsp;
 
 <p align="center">
-**#3 Map**
+<strong>Map</strong>
 </p>
 
 <p align="center">
