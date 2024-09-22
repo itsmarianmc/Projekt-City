@@ -1,9 +1,4 @@
 <!-- Header -->
-<h1 style="text-align: center;"><a title="Download " href="https://www.curseforge.com/minecraft/worlds/projekt-city/files/all">
-<img src="https://media.forgecdn.net/attachments/description/782396/description_72bc938c-52b7-41b1-9974-086df5816928.png" alt="DOWNLOAD PROJEKT CITY" width="30" height="30"></a>
-<a style="text-decoration: none;" href="https://www.curseforge.com/minecraft/worlds/projekt-city/files/all"> 5000 DOWNLOADS </a>
-<a title="Download" href="https://www.curseforge.com/minecraft/worlds/projekt-city/files/all"><img src="https://media.forgecdn.net/attachments/description/782396/description_99093bc9-9724-4eef-bc3f-ca45aee7b1bb.png" alt="DOWNLOAD PROJEKT CITY" width="30" height="30"></a></h1>
-<hr>
 <h1 style="text-align: center;"><strong><em><span style="text-decoration: underline;">Projekt City</span></em></strong></h1>
 <p style="text-align: center; line-height: 40%;">by SuffixHD &amp; <a style="text-decoration: none;" title="OWNER | itsmarian_mc" href="https://www.curseforge.com/members/itsmarian_mc">itsmarian</a></p>
 <p><img style="display: block; margin-left: auto; margin-right: auto; padding-top: 40px; padding-bottom: 40px;" src="https://i.ibb.co/8x5cYXk/Map.png" width="1250" height="1454"></p>
